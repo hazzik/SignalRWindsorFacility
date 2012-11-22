@@ -1,4 +1,11 @@
+# SignalRWindsorFacility
+
 SignalRWindsorFacility adds ability to call client side services just with injected interface
+
+## Why?
+
+1. It is testable. You are using these interfaces as any normal .NET interface
+2. It supports intellisense
 
 ## Example
 
